@@ -1,7 +1,3 @@
-This is a great idea. For a GitHub project, I'd structure it like a professional open-source README rather than lecture notes. Here's a polished version you can directly copy.
-
----
-
 # Haar Cascade Face Detection using OpenCV
 
 ##  Project Overview
